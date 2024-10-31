@@ -2,7 +2,7 @@
 
 //My A2 project prototype is called Geometric Kandinsky inspired artworks.
 
-//To operate the artworks, the coding environment Processing must be used.
+//The functioning of the artworks is dependent on the coding environment Processing.
 
 //The artworks have been coded with JavaScript coding language.
 
