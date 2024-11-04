@@ -7,7 +7,7 @@ My A2 project prototype is called Geometric Kandinsky inspired artworks. The aim
 TECHNOLOGIES
 
 - JavaScript (ECMAScript 2023)
-- Processing Reference Webpage Library
+- Processing Reference Webpage Library (https://processing.org/reference/)
 
 ENVRIONMENT
 
