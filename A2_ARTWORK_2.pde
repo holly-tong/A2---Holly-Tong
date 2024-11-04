@@ -1,3 +1,4 @@
+//Tutor added setup and draw functions.
 void setup() {
 
 //Set the canvas size.
