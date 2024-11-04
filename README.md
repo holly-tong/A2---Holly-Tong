@@ -1,8 +1,9 @@
-A2 Geometric Kandinsky Insprired Artworks: How to operate the artworks on Processing
+A2 GEOMETRIC KANDINSKY INSPIRED ARTWORKS
 
 My A2 project prototype is called Geometric Kandinsky inspired artworks. The aim of this project was to learn and understand code and how to apply the skills learnt in practice. The goal of the project was to create two digital visual artworks using code. The functioning of the artworks is dependent on the coding environment Processing. The artworks have been coded with JavaScript coding language.
 
 HOW TO OPERATE THE ARTWORKS ON PROCESSING
+
 The Processing software application must be downloaded onto the user's computer in order to launch the software. 
 
 To set Processing to JavaScript coding language, press the top right button and pick 'Java'.
